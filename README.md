@@ -1,2 +1,0 @@
-# cccwebtest
-Frontend Calculator
